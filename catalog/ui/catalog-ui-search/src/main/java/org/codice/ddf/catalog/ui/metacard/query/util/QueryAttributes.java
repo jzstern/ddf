@@ -45,5 +45,7 @@ public class QueryAttributes {
 
   public static final String PHONETICS = "phonetics";
 
+  public static final String RESULT_COUNT = "result-count";
+
   private QueryAttributes() {}
 }
